@@ -1,4 +1,4 @@
-jQueryTween [![Build Status](https://travis-ci.org/thednp/jQueryTween.svg)](https://travis-ci.org/thednp/jQueryTween)
+jQueryTween
 ======
 Lightest Tweening Engine for jQuery
 
