@@ -1,6 +1,10 @@
+Important
+======
+jQueryTween is not the lightest anymore, I highly recommend using my <a href="https://github.com/thednp/kute.js">kute.js</a>
+
 jQueryTween
 ======
-Lightest Tweening Engine for jQuery
+Lightest Tweening Engine for jQuery / busted
 
 Why jQueryTween?
 ======
