@@ -1,6 +1,6 @@
 Important
 ======
-jQueryTween is not the lightest anymore, I highly recommend using my <a href="https://github.com/thednp/kute.js">kute.js</a>
+jQueryTween is not developed anymore, I highly recommend using my <a href="https://github.com/thednp/kute.js">kute.js</a>
 
 jQueryTween
 ======
